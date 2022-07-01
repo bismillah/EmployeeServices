@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\EmployeeServices.Api\bin\Debug\EmployeeServices.Api.dll.config
+C:\Users\USER\source\repos\EmployeeServices.Api\bin\Debug\EmployeeServices.Api.dll
+C:\Users\USER\source\repos\EmployeeServices.Api\bin\Debug\EmployeeServices.Api.pdb
+C:\Users\USER\source\repos\EmployeeServices.Api\bin\Debug\EmployeeServices.Domain.dll
+C:\Users\USER\source\repos\EmployeeServices.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\EmployeeServices.Api\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\USER\source\repos\EmployeeServices.Api\bin\Debug\EmployeeServices.Domain.pdb
+C:\Users\USER\source\repos\EmployeeServices.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\EmployeeServices.Api\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\USER\source\repos\EmployeeServices.Api\obj\Debug\EmployeeServices.Api.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\EmployeeServices.Api\obj\Debug\EmployeeServices.Api.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EmployeeServices.Api\obj\Debug\EmployeeServices.Api.csproj.CopyComplete
+C:\Users\USER\source\repos\EmployeeServices.Api\obj\Debug\EmployeeServices.Api.dll
+C:\Users\USER\source\repos\EmployeeServices.Api\obj\Debug\EmployeeServices.Api.pdb

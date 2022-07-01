@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\EmployeeServices.Domain\bin\Debug\EmployeeServices.Domain.dll
+C:\Users\USER\source\repos\EmployeeServices.Domain\bin\Debug\EmployeeServices.Domain.pdb
+C:\Users\USER\source\repos\EmployeeServices.Domain\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\USER\source\repos\EmployeeServices.Domain\obj\Debug\EmployeeServices.Domain.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\EmployeeServices.Domain\obj\Debug\EmployeeServices.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EmployeeServices.Domain\obj\Debug\EmployeeServices.Domain.csproj.CopyComplete
+C:\Users\USER\source\repos\EmployeeServices.Domain\obj\Debug\EmployeeServices.Domain.dll
+C:\Users\USER\source\repos\EmployeeServices.Domain\obj\Debug\EmployeeServices.Domain.pdb
